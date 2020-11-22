@@ -6,4 +6,4 @@ Requirements:
  * PyQt5
  * requests
 
-If you satisfied the requirements the only thing that you need to do is to run the main.py script and use the app as you wish.
+If you satisfied the requirements the only thing that you need to do is to run the main.py script and use the app easily.
